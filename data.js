@@ -5739,7 +5739,7 @@ const quizData = [
     options: [
       "There's nothing to it",
       "You name it",
-      "The ball is in your court; The ball's in your court",
+      "The ball is in your court",
       "Just my luck",
     ],
     answer: "You name it",
