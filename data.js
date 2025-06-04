@@ -6043,7 +6043,7 @@ const quizData = [
   {
     question:
       "It’s a classic rags to riches story—he went from living in his car to owning five restaurants. What does 'rags to riches' mean in this context?",
-    options: ["fashion style", "sudden success", "story of failure"],
+    options: ["fashion style", "story of failure", "sudden success"],
     answer: "sudden success",
   },
   {
@@ -6278,8 +6278,8 @@ const quizData = [
     question:
       "She didn’t say her name, but I knew her on sight from an old photo. What does 'knew her on sight' mean in this context?",
     options: [
-      "didn’t recognize her",
       "recognized immediately",
+      "didn’t recognize her",
       "forgot about her",
     ],
     answer: "recognized immediately",
@@ -6323,8 +6323,8 @@ const quizData = [
       "Everything he touches turns into profit—he’s got the Midas touch. What does 'Midas touch' mean here?",
     options: [
       "ability to ruin things",
-      "ability to make money easily",
       "skill in fixing problems",
+      "ability to make money easily",
     ],
     answer: "ability to make money easily",
   },
@@ -6394,8 +6394,8 @@ const quizData = [
     question:
       "He lives a sybaritic lifestyle, full of luxury and indulgence. What does 'sybaritic' mean in this context?",
     options: [
-      "simple and humble",
-      "hardworking and frugal",
+      "leading a life that is plain, modest, and without extravagance",
+      "being diligent and careful with money, avoiding waste",
       "pleasure-loving and luxurious",
     ],
     answer: "pleasure-loving and luxurious",
@@ -6470,9 +6470,9 @@ const quizData = [
     question:
       "He was treated like a nonentity at the party—no one even noticed him. What does 'nonentity' mean here?",
     options: [
-      "someone important",
       "someone unknown or unimportant",
-      "someone mysterious",
+      "someone who stands out and is respected",
+      "someone who seems secretive or hard to understand",
     ],
     answer: "someone unknown or unimportant",
   },
@@ -6523,7 +6523,11 @@ const quizData = [
   {
     question:
       "The sheriff deputizes a few locals to help with the search. What does 'deputizes' mean in this context?",
-    options: ["arrests", "gives temporary authority", "hides evidence"],
+    options: [
+      "gives temporary authority",
+      "takes people into custody for breaking the law",
+      "gets rid of or hides important evidence",
+    ],
     answer: "gives temporary authority",
   },
   {
@@ -6612,11 +6616,11 @@ const quizData = [
     question:
       "She keeps dredging up old arguments from years ago. What does 'dredging up' mean here?",
     options: [
-      "solving conflicts",
-      "bringing up unpleasant memories",
-      "forgetting problems",
+      "trying to fix old conflicts peacefully",
+      "choosing to forget past problems",
+      "bringing up old problems",
     ],
-    answer: "bringing up unpleasant memories",
+    answer: "bringing up old problems",
   },
   {
     question:
@@ -6665,8 +6669,13 @@ const quizData = [
   {
     question:
       "You can’t trust someone who constantly lies. What does 'trust' mean here?",
-    options: ["test", "depend on with confidence", "ignore"],
-    answer: "depend on with confidence",
+    options: [
+      "try something out to see if it works or is true, like an experiment or test",
+      "choose to not pay attention to something or someone, treating it as unimportant",
+      "depend on someone with confidence, believing they are honest and reliable",
+    ],
+    answer:
+      "depend on someone with confidence, believing they are honest and reliable",
   },
   {
     question:
@@ -6825,8 +6834,12 @@ const quizData = [
   {
     question:
       "Snap out of it, we’re running late! What does 'snap out of it' mean in this context?",
-    options: ["hurry up", "stop being distracted or upset", "laugh"],
-    answer: "stop being distracted or upset",
+    options: [
+      "stop being distracted or emotionally overwhelmed and regain focus",
+      "move more quickly or with greater urgency because time is short",
+      "begin laughing or finding something funny, possibly at an inappropriate time",
+    ],
+    answer: "stop being distracted or emotionally overwhelmed and regain focus",
   },
   {
     question:
@@ -6856,11 +6869,11 @@ const quizData = [
     question:
       "She enjoys jogging in the mornings to clear her head. What does 'jogging' mean here?",
     options: [
-      "walking slowly",
-      "running at a steady, moderate pace",
-      "sprinting",
+      "walking slowly and casually without any intention of exercising",
+      "running at a steady, moderate pace for exercise or relaxation",
+      "running very fast for a short distance, usually in a race or when in a hurry",
     ],
-    answer: "running at a steady, moderate pace",
+    answer: "running at a steady, moderate pace for exercise or relaxation",
   },
   {
     question:
@@ -7027,7 +7040,7 @@ const quizData = [
   {
     question:
       "They had to squeeze up on the bench to make room for one more person. What does squeeze up mean in this context?",
-    options: ["leave quickly", "move closer", "stand up"],
+    options: ["leave quickly", "stand up", "move closer"],
     answer: "move closer",
   },
   {
@@ -7081,7 +7094,7 @@ const quizData = [
   {
     question:
       "The tension in the room was so palpable you could feel it in the air. What does palpable mean in this context?",
-    options: ["invisible", "noticeable", "calm"],
+    options: ["noticeable", "invisible", "calm"],
     answer: "noticeable",
   },
   {
@@ -7111,19 +7124,19 @@ const quizData = [
   {
     question:
       "The factory was pumping out toys at an incredible rate before the holidays. What does pumping out mean in this context?",
-    options: ["repairing", "producing", "storing"],
+    options: ["repairing", "storing", "producing"],
     answer: "producing",
   },
   {
     question:
       "The group published a manifesto outlining their plans for change. What does manifesto mean in this context?",
-    options: ["secret plan", "public statement", "private letter"],
+    options: ["public statement", "secret plan", "private letter"],
     answer: "public statement",
   },
   {
     question:
       "Sharing her best ideas with the uninterested group felt like casting pearls before swine. What does casting pearls before swine mean in this context?",
-    options: ["sharing wisely", "wasting value", "teaching eagerly"],
+    options: ["sharing wisely", "teaching eagerly", "wasting value"],
     answer: "wasting value",
   },
   {
@@ -7159,7 +7172,7 @@ const quizData = [
   {
     question:
       "You can bet your boots she’ll win the race; she’s been training for months. What does you can bet your boots mean in this context?",
-    options: ["doubt it", "be certain", "take a risk"],
+    options: ["doubt it", "take a risk", "be certain"],
     answer: "be certain",
   },
   {
@@ -7457,7 +7470,7 @@ const quizData = [
   {
     question:
       "The game was over before the rain started pouring. What does over mean in this context?",
-    options: ["delayed", "finished", "started"],
+    options: ["delayed", "started", "finished"],
     answer: "finished",
   },
   {
@@ -7469,13 +7482,13 @@ const quizData = [
   {
     question:
       "The boss had to lean on them to meet the project deadline. What does lean on them mean in this context?",
-    options: ["support them", "pressure them", "ignore them"],
+    options: ["support them", "ignore them", "pressure them"],
     answer: "pressure them",
   },
   {
     question:
       "She was forward with her opinions, never holding back in meetings. What does forward mean in this context?",
-    options: ["shy", "bold", "quiet"],
+    options: ["bold", "shy", "quiet"],
     answer: "bold",
   },
   {
@@ -7515,7 +7528,7 @@ const quizData = [
   {
     question:
       "He couldn’t help but lust after the shiny new sports car in the showroom. What does lust after mean in this context?",
-    options: ["dislike strongly", "desire eagerly", "ignore completely"],
+    options: ["dislike strongly", "ignore completely", "desire eagerly"],
     answer: "desire eagerly",
   },
   {
@@ -7551,7 +7564,7 @@ const quizData = [
   {
     question:
       "She used her connections to leverage a better deal for the company. What does leverage mean in this context?",
-    options: ["ignore", "use effectively", "lose"],
+    options: ["use effectively", "ignore", "lose"],
     answer: "use effectively",
   },
   {
@@ -7575,7 +7588,7 @@ const quizData = [
   {
     question:
       "He didn’t mean to cast aspersions on her work, but his comments upset her. What does cast aspersions on mean in this context?",
-    options: ["praise", "criticize", "support"],
+    options: ["criticize", "praise", "support"],
     answer: "criticize",
   },
   {
@@ -7622,7 +7635,7 @@ const quizData = [
   },
   {
     question:
-      "She was upset when her date stood me up at the restaurant. What does stood me up mean in this context?",
+      "She was upset when her date stood her up at the restaurant. What does stood me up mean in this context?",
     options: ["met on time", "failed to show", "helped out"],
     answer: "failed to show",
   },
@@ -10472,7 +10485,7 @@ const quizData = [
   {
     question:
       "He bought a new gizmo to help organize his desk. What does gizmo mean in this context?",
-    options: ["book", "gadget", "chair"],
+    options: ["book", "chair", "gadget"],
     answer: "gadget",
   },
   {
@@ -10484,7 +10497,7 @@ const quizData = [
   {
     question:
       "He called the dishonest politician pond scum during the debate. What does pond scum mean in this context?",
-    options: ["admirable person", "despicable person", "neutral person"],
+    options: ["despicable person", "admirable person", "neutral person"],
     answer: "despicable person",
   },
   {
