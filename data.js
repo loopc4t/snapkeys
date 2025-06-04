@@ -6550,33 +6550,41 @@ const quizData = [
     question:
       "He gave a glib response to the serious question, and it annoyed everyone in the room. What does 'glib' mean in this context?",
     options: [
-      "honest and thoughtful",
-      "smooth but lacking sincerity",
-      "slow and unsure",
+      "Genuinely honest and deeply thoughtful",
+      "Hesitant and noticeably unsure",
+      "Smooth but lacking sincerity",
     ],
-    answer: "smooth but lacking sincerity",
+    answer: "Smooth but lacking sincerity",
   },
   {
     question:
       "Let’s go halves on the pizza—I'll pay for half, and you pay the rest. What does 'go halves' mean here?",
-    options: ["share the cost equally", "buy two pizzas", "pay later"],
-    answer: "share the cost equally",
+    options: [
+      "Share the cost equally",
+      "Purchase two separate pizzas",
+      "Defer payment until later",
+    ],
+    answer: "Share the cost equally",
   },
   {
     question:
       "He got in trouble for skipping class all week. What does 'skipping class' mean here?",
     options: [
-      "finishing class early",
-      "missing class on purpose",
-      "studying ahead",
+      "Completing class earlier than expected",
+      "Missing class on purpose",
+      "Studying ahead of the schedule",
     ],
-    answer: "missing class on purpose",
+    answer: "Missing class on purpose",
   },
   {
     question:
       "The meeting was full of sales pitches, not real discussion. What does 'sales pitches' mean in this context?",
-    options: ["aggressive selling attempts", "casual chats", "complaints"],
-    answer: "aggressive selling attempts",
+    options: [
+      "Aggressive selling attempts",
+      "Relaxed and casual conversations",
+      "Frequent complaints about issues",
+    ],
+    answer: "Aggressive selling attempts",
   },
   {
     question:
@@ -6637,8 +6645,8 @@ const quizData = [
       "He’s always knuckling under to his boss, even when she’s wrong. What does 'knuckling under' mean here?",
     options: [
       "standing up for himself",
-      "giving in or surrendering",
       "making a deal",
+      "giving in or surrendering",
     ],
     answer: "giving in or surrendering",
   },
@@ -6680,15 +6688,15 @@ const quizData = [
   {
     question:
       "His boorish behavior at the dinner table embarrassed everyone. What does 'boorish' mean in this context?",
-    options: ["extremely polite", "loud and rude", "too quiet"],
+    options: ["extremely polite", "too quiet", "loud and rude"],
     answer: "loud and rude",
   },
   {
     question:
       "The show was debased by cheap humor and bad acting. What does 'debased' mean here?",
     options: [
-      "improved",
       "made less valuable or lower in quality",
+      "improved",
       "made more expensive",
     ],
     answer: "made less valuable or lower in quality",
@@ -6788,13 +6796,13 @@ const quizData = [
   {
     question:
       "His point was germane to the topic we were discussing. What does 'germane' mean here?",
-    options: ["confusing", "relevant", "offensive"],
+    options: ["confusing", "offensive", "relevant"],
     answer: "relevant",
   },
   {
     question:
       "I don’t need an exact number—just a ballpark figure. What does 'a ballpark figure' mean in this context?",
-    options: ["a made-up number", "a general estimate", "a sports score"],
+    options: ["a made-up number", "a sports score", "a general estimate"],
     answer: "a general estimate",
   },
   {
@@ -6850,7 +6858,7 @@ const quizData = [
   {
     question:
       "She’s amenable to trying new things. What does 'amenable' mean in this context?",
-    options: ["unwilling", "open and willing", "uninterested"],
+    options: ["unwilling", "uninterested", "open and willing"],
     answer: "open and willing",
   },
   {
@@ -6862,7 +6870,7 @@ const quizData = [
   {
     question:
       "Everything was finally settled after the long debate. What does 'settled' mean in this context?",
-    options: ["left unresolved", "agreed upon", "ignored"],
+    options: ["left unresolved", "ignored", "agreed upon"],
     answer: "agreed upon",
   },
   {
@@ -6878,7 +6886,7 @@ const quizData = [
   {
     question:
       "She gave an unflinching account of the accident, despite how painful it was. What does 'unflinching' mean in this context?",
-    options: ["hesitant and fearful", "honest and firm", "careless and vague"],
+    options: ["hesitant and fearful", "careless and vague", "honest and firm"],
     answer: "honest and firm",
   },
   {
@@ -6890,13 +6898,13 @@ const quizData = [
   {
     question:
       "There was a sudden exacerbation of her symptoms overnight. What does 'exacerbation' mean in this context?",
-    options: ["improvement", "worsening", "disappearance"],
+    options: ["worsening", "improvement", "disappearance"],
     answer: "worsening",
   },
   {
     question:
       "The seam on my shirt ripped after just one wash. What does 'seam' mean here?",
-    options: ["pattern", "stitched edge", "color"],
+    options: ["pattern", "color", "stitched edge"],
     answer: "stitched edge",
   },
   {
@@ -6904,15 +6912,15 @@ const quizData = [
       "He’s a bit of a hypochondriac—he always thinks he’s seriously ill. What does 'hypochondriac' mean in this context?",
     options: [
       "someone who avoids doctors",
-      "someone who fears illness constantly",
       "someone who works in medicine",
+      "someone who fears illness constantly",
     ],
     answer: "someone who fears illness constantly",
   },
   {
     question:
       "She was blubbering so much I could hardly understand her words. What does 'blubbering' mean here?",
-    options: ["laughing loudly", "crying noisily", "mumbling quietly"],
+    options: ["crying noisily", "laughing loudly", "mumbling quietly"],
     answer: "crying noisily",
   },
   {
@@ -6924,13 +6932,13 @@ const quizData = [
   {
     question:
       "He was so absorbed in the book, he didn’t hear me call him. What does 'absorbed' mean here?",
-    options: ["distracted", "fully focused", "irritated"],
+    options: ["distracted", "irritated", "fully focused"],
     answer: "fully focused",
   },
   {
     question:
       "I appreciate her honesty—she’s not afraid to call a spade a spade. What does 'call a spade a spade' mean in this context?",
-    options: ["use slang", "speak plainly", "avoid conflict"],
+    options: ["use slang", "avoid conflict", "speak plainly"],
     answer: "speak plainly",
   },
   {
@@ -6952,13 +6960,13 @@ const quizData = [
   {
     question:
       "That idea didn’t work—let’s go back to the drawing board. What does 'go back to the drawing board' mean here?",
-    options: ["give up", "try a new approach", "continue as planned"],
+    options: ["try a new approach", "give up", "continue as planned"],
     answer: "try a new approach",
   },
   {
     question:
       "There’s a temporary moratorium on construction in that area. What does 'moratorium' mean in this context?",
-    options: ["celebration", "delay or suspension", "tax increase"],
+    options: ["celebration", "tax increase", "delay or suspension"],
     answer: "delay or suspension",
   },
   {
@@ -6972,15 +6980,15 @@ const quizData = [
       "He behaved decorously at the formal dinner. What does 'decorously' mean in this context?",
     options: [
       "politely and with good manners",
-      "carelessly and loudly",
-      "slowly and awkwardly",
+      "carelessly and with loud behavior",
+      "slowly and with awkward movements",
     ],
     answer: "politely and with good manners",
   },
   {
     question:
       "Her sister was like her alter ego—they did everything together. What does 'alter ego' mean here?",
-    options: ["rival", "close friend or second self", "opposite personality"],
+    options: ["rival", "opposite personality", "close friend or second self"],
     answer: "close friend or second self",
   },
   {
@@ -7010,13 +7018,13 @@ const quizData = [
   {
     question:
       "She carefully edged along the narrow ledge to reach the window. What does edged mean in this context?",
-    options: ["jumped", "moved slowly", "ran"],
+    options: ["jumped", "ran", "moved slowly"],
     answer: "moved slowly",
   },
   {
     question:
       "The benevolent donor gave money to rebuild the community center. What does benevolent mean in this context?",
-    options: ["cautious", "generous", "selfish"],
+    options: ["generous", "cautious", "selfish"],
     answer: "generous",
   },
   {
@@ -7112,13 +7120,13 @@ const quizData = [
   {
     question:
       "He constantly denigrates his coworkers, making the workplace unpleasant. What does denigrates mean in this context?",
-    options: ["praises", "criticizes", "supports"],
+    options: ["praises", "supports", "criticizes"],
     answer: "criticizes",
   },
   {
     question:
       "Her ebullient energy lit up the party, making everyone smile. What does ebullient mean in this context?",
-    options: ["reserved", "cheerful", "tired"],
+    options: ["reserved", "tired", "cheerful"],
     answer: "cheerful",
   },
   {
@@ -7142,31 +7150,31 @@ const quizData = [
   {
     question:
       "At only 16, she had an old head on young shoulders, making wise decisions. What does an old head on young shoulders mean in this context?",
-    options: ["youthful energy", "mature wisdom", "reckless behavior"],
+    options: ["youthful energy", "reckless behavior", "mature wisdom"],
     answer: "mature wisdom",
   },
   {
     question:
       "The team worked to harness solar energy for the new project. What does harness mean in this context?",
-    options: ["ignore", "utilize", "destroy"],
+    options: ["utilize", "ignore", "destroy"],
     answer: "utilize",
   },
   {
     question:
       "The professor’s abstruse lecture left the students confused. What does abstruse mean in this context?",
-    options: ["clear", "complex", "simple"],
+    options: ["clear", "simple", "complex"],
     answer: "complex",
   },
   {
     question:
       "She used the remote to zap through the TV channels quickly. What does zap mean in this context?",
-    options: ["watch slowly", "change rapidly", "turn off"],
+    options: ["watch slowly", "turn off", "change rapidly"],
     answer: "change rapidly",
   },
   {
     question:
       "He was burning the candle at both ends with work and late-night studying. What does burning the candle at both ends mean in this context?",
-    options: ["relaxing often", "overworking", "saving energy"],
+    options: ["relaxing often", "saving energy", "overworking"],
     answer: "overworking",
   },
   {
@@ -7184,13 +7192,13 @@ const quizData = [
   {
     question:
       "His silence was tantamount to agreeing with the decision. What does tantamount mean in this context?",
-    options: ["unrelated", "equivalent", "opposed"],
+    options: ["unrelated", "opposed", "equivalent"],
     answer: "equivalent",
   },
   {
     question:
       "She tendered her resignation after five years at the company. What does tendered mean in this context?",
-    options: ["accepted", "offered", "delayed"],
+    options: ["offered", "accepted", "delayed"],
     answer: "offered",
   },
   {
@@ -7214,13 +7222,13 @@ const quizData = [
   {
     question:
       "Losing his job and getting sick was a double whammy for him. What does double whammy mean in this context?",
-    options: ["single problem", "two setbacks", "great success"],
+    options: ["single problem", "great success", "two setbacks"],
     answer: "two setbacks",
   },
   {
     question:
       "She rattled off the list of ingredients without looking at the recipe. What does rattled something off mean in this context?",
-    options: ["forgot slowly", "recited quickly", "wrote carefully"],
+    options: ["forgot slowly", "wrote carefully", "recited quickly"],
     answer: "recited quickly",
   },
   {
@@ -7262,13 +7270,13 @@ const quizData = [
   {
     question:
       "She’s a true friend in my book because she’s always there for me. What does in my book mean in this context?",
-    options: ["in my diary", "in my opinion", "in my story"],
+    options: ["in my opinion", "in my diary", "in my story"],
     answer: "in my opinion",
   },
   {
     question:
       "After the loud crash, he stood there dazed, unsure of what happened. What does dazed mean in this context?",
-    options: ["alert", "confused", "excited"],
+    options: ["alert", "excited", "confused"],
     answer: "confused",
   },
   {
@@ -7292,7 +7300,7 @@ const quizData = [
   {
     question:
       "He felt a wrench in his heart when he said goodbye to his best friend. What does wrench mean in this context?",
-    options: ["joy", "pain", "relief"],
+    options: ["joy", "relief", "pain"],
     answer: "pain",
   },
   {
@@ -7322,19 +7330,19 @@ const quizData = [
   {
     question:
       "They threw a big bash to celebrate the end of the school year. What does bash mean in this context?",
-    options: ["meeting", "party", "argument"],
+    options: ["party", "meeting", "argument"],
     answer: "party",
   },
   {
     question:
       "The bread was so stale that it was hard to chew. What does stale mean in this context?",
-    options: ["fresh", "old", "soft"],
+    options: ["fresh", "soft", "old"],
     answer: "old",
   },
   {
     question:
       "Her fortitude helped her stay strong during the difficult times. What does fortitude mean in this context?",
-    options: ["weakness", "courage", "doubt"],
+    options: ["weakness", "doubt", "courage"],
     answer: "courage",
   },
   {
@@ -14375,9 +14383,9 @@ const quizData = [
     question:
       "Some say the neighborhood is going to the dogs. What does 'going to the dogs' mean here?",
     options: [
-      "Improving steadily",
+      "Gradually improving in overall quality",
+      "Transforming into a more modern area",
       "Declining in quality or becoming worse",
-      "Becoming more modern",
     ],
     answer: "Declining in quality or becoming worse",
   },
@@ -14385,9 +14393,9 @@ const quizData = [
     question:
       "He wore a slick suit and carried himself with confidence. What does 'slick' suggest in this context?",
     options: [
-      "Shabby or worn",
       "Smooth, stylish, and possibly superficial",
-      "Unusual and outdated",
+      "Appearing worn out or noticeably shabby",
+      "Looking outdated and quite unusual",
     ],
     answer: "Smooth, stylish, and possibly superficial",
   },
@@ -14395,9 +14403,9 @@ const quizData = [
     question:
       "Getting him to apologize was like pulling teeth. What does 'like pulling teeth' mean here?",
     options: [
-      "Very easy",
+      "Extremely easy and quite straightforward",
+      "Highly amusing and very enjoyable",
       "Extremely difficult and unpleasant",
-      "Funny and enjoyable",
     ],
     answer: "Extremely difficult and unpleasant",
   },
@@ -14406,8 +14414,8 @@ const quizData = [
       "The acquiescent employee never questioned the manager’s decisions. What does 'acquiescent' mean here?",
     options: [
       "Submissive or ready to accept without protest",
-      "Highly argumentative",
-      "Uninformed and careless",
+      "Very argumentative and openly confrontational",
+      "Lacking information and acting carelessly",
     ],
     answer: "Submissive or ready to accept without protest",
   },
@@ -14415,9 +14423,9 @@ const quizData = [
     question:
       "Many of the characters lusted after him in the drama series. What does 'lusted after' imply in this context?",
     options: [
-      "Respected him deeply",
+      "Greatly respected and deeply admired him",
       "Had a strong sexual desire for him",
-      "Feared him intensely",
+      "Intensely feared and actively avoided him",
     ],
     answer: "Had a strong sexual desire for him",
   },
@@ -14784,8 +14792,8 @@ const quizData = [
       "I'm exhausted because I ____ (prepare) for this conference for weeks, and it's finally tomorrow.",
     options: [
       "had been preparing the materials",
-      "have been preparing",
       "have prepared everything",
+      "have been preparing",
     ],
     answer: "have been preparing",
   },
@@ -14803,8 +14811,8 @@ const quizData = [
     question:
       "My throat is sore because I ____ (shout) at the football game for the last three hours.",
     options: [
-      "had shouted too loudly",
       "have been shouting",
+      "had shouted too loudly",
       "have shouted all my voice away",
     ],
     answer: "have been shouting",
@@ -14824,8 +14832,8 @@ const quizData = [
       "She ____ (train) for the marathon since January, and she looks really fit now.",
     options: [
       "had trained very hard",
-      "has been training",
       "has trained with dedication",
+      "has been training",
     ],
     answer: "has been training",
   },
@@ -14890,7 +14898,7 @@ const quizData = [
   {
     question:
       "My sister ____ (study) for her final exams all weekend; she barely leaves her room.",
-    options: ["has studied", "is studying", "will study"],
+    options: ["is studying", "has studied", "will study"],
     answer: "is studying",
   },
   {
@@ -14907,7 +14915,7 @@ const quizData = [
   {
     question:
       "The chef ____ (prepare) a special dinner for the guests at the moment; it smells delicious!",
-    options: ["has prepared", "is preparing", "prepares"],
+    options: ["has prepared", "prepares", "is preparing"],
     answer: "is preparing",
   },
   {
