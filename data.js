@@ -17375,4 +17375,319 @@ const quizData = [
     ],
     answer: "Tara ran faster to overtake.",
   },
+  {
+    question: "After years of working hard, she finally landed her...",
+    options: ["goal position", "dream job", "ideal post"],
+    answer: "dream job",
+  },
+  {
+    question:
+      "He was caught red-______ trying to steal from the cash register.",
+    options: ["colored", "painted", "handed"],
+    answer: "handed",
+  },
+  {
+    question: "She's not just smart, she's book-______.",
+    options: ["studied", "smart", "learned"],
+    answer: "smart",
+  },
+  {
+    question: "They went for a quick bite at a local...",
+    options: ["food house", "snack bar", "fast-food joint"],
+    answer: "fast-food joint",
+  },
+  {
+    question: "The deal fell through at the ______ minute.",
+    options: ["last", "final", "late"],
+    answer: "last",
+  },
+  {
+    question: "He's a big fan of old cars — a real car...",
+    options: ["freak", "guy", "nut"],
+    answer: "nut",
+  },
+  {
+    question: "They grew up in a small, close-______ community.",
+    options: ["tied", "bonded", "knit"],
+    answer: "knit",
+  },
+  {
+    question:
+      "She spilled the beans about the surprise party — now it's no longer a...",
+    options: ["secret", "plan", "mystery"],
+    answer: "secret",
+  },
+  {
+    question: "He always plays by the ______ — he's not one to take risks.",
+    options: ["game", "rules", "book"],
+    answer: "book",
+  },
+  {
+    question: "He showed up to the meeting dressed in a full...",
+    options: ["business suit", "working clothes", "office wear"],
+    answer: "business suit",
+  },
+  {
+    question: "She was over the moon when she got the...",
+    options: ["happy result", "great deal", "good news"],
+    answer: "good news",
+  },
+  {
+    question: "Let's grab a cup of coffee and have a quick...",
+    options: ["meeting", "chat", "talk"],
+    answer: "chat",
+  },
+  {
+    question: "The horror movie gave me goose...",
+    options: ["pimples", "skin", "bumps"],
+    answer: "bumps",
+  },
+  {
+    question: "They live in a quiet, middle-______ neighborhood.",
+    options: ["economy", "working", "class"],
+    answer: "class",
+  },
+  {
+    question: "He's been under a lot of ______ lately because of work.",
+    options: ["pressure", "concern", "thoughts"],
+    answer: "pressure",
+  },
+  {
+    question: "It's not rocket ______ — anyone can learn to use this app.",
+    options: ["building", "technology", "science"],
+    answer: "science",
+  },
+  {
+    question: "She hit the nail on the ______ with her comment.",
+    options: ["head", "wall", "point"],
+    answer: "head",
+  },
+  {
+    question: "Let's play it ______ and wait to see what happens.",
+    options: ["smart", "cool", "safe"],
+    answer: "safe",
+  },
+  {
+    question: "I have a sweet ______ — I can't resist chocolate cake.",
+    options: ["craving", "tooth", "bite"],
+    answer: "tooth",
+  },
+  {
+    question: "He promised to keep me in the...",
+    options: ["loop", "know", "side"],
+    answer: "loop",
+  },
+  {
+    question: "She always looks put-together — she has a great sense of...",
+    options: ["style", "clothes", "dress"],
+    answer: "style",
+  },
+  {
+    question: "Don't worry, I'll keep an ______ on your bag while you're gone.",
+    options: ["attention", "arm", "eye"],
+    answer: "eye",
+  },
+  {
+    question: "They have a zero ______ policy when it comes to cheating.",
+    options: ["tolerance", "patience", "risk"],
+    answer: "tolerance",
+  },
+  {
+    question: "I'm going to hit the ______ early tonight. I'm exhausted.",
+    options: ["pillow", "sack", "bed"],
+    answer: "sack",
+  },
+  {
+    question: "He's been in hot ______ since the news broke.",
+    options: ["fire", "mess", "water"],
+    answer: "water",
+  },
+  {
+    question: "The proposal is still up in the...",
+    options: ["mind", "air", "clouds"],
+    answer: "air",
+  },
+  {
+    question: "I've been running around like a chicken with its head...",
+    options: ["off", "loose", "gone"],
+    answer: "off",
+  },
+  {
+    question: "Let's get the ball...",
+    options: ["dropping", "bouncing", "rolling"],
+    answer: "rolling",
+  },
+  {
+    question: "The project was a piece of...",
+    options: ["cake", "fun", "candy"],
+    answer: "cake",
+  },
+  {
+    question:
+      "She broke the ______ by telling a funny joke at the tense meeting.",
+    options: ["silence", "ice", "mood"],
+    answer: "ice",
+  },
+  {
+    question: "He's always been the black ______ of the family.",
+    options: ["sheep", "duck", "horse"],
+    answer: "sheep",
+  },
+  {
+    question: "Don't beat around the ______ — just tell me what happened.",
+    options: ["tree", "bush", "point"],
+    answer: "bush",
+  },
+  {
+    question: "The company is cutting ______ to reduce expenses.",
+    options: ["costs", "corners", "prices"],
+    answer: "corners",
+  },
+  {
+    question:
+      "She's walking on ______ since her boss found out about the mistake.",
+    options: ["glass", "eggshells", "thin ice"],
+    answer: "eggshells",
+  },
+  {
+    question: "It's raining cats and ______ out there!",
+    options: ["dogs", "mice", "birds"],
+    answer: "dogs",
+  },
+  {
+    question: "He's got a chip on his ______ about not going to college.",
+    options: ["back", "mind", "shoulder"],
+    answer: "shoulder",
+  },
+  {
+    question: "The news spread like wild ______ through the office.",
+    options: ["fire", "wind", "rumors"],
+    answer: "fire",
+  },
+  {
+    question: "She's the apple of her father's ______.",
+    options: ["heart", "eye", "mind"],
+    answer: "eye",
+  },
+  {
+    question: "Don't count your chickens before they ______.",
+    options: ["hatch", "grow", "fly"],
+    answer: "hatch",
+  },
+  {
+    question:
+      "I'm exhausted from working 12-hour days. I really need to ______ on my workload.",
+    options: ["cut down", "cut off", "cut through", "cut up"],
+    answer: "cut down",
+  },
+  {
+    question:
+      "The meeting was supposed to start at 3 PM, but the client didn't ______ until 3:30.",
+    options: ["show up", "show off", "show out", "show through"],
+    answer: "show up",
+  },
+  {
+    question: "I can't find my keys anywhere. Could you help me ______ them?",
+    options: ["look after", "look into", "look for", "look up"],
+    answer: "look for",
+  },
+  {
+    question: "The music is too loud! Could you please ______ the volume?",
+    options: ["turn up", "turn down", "turn over", "turn around"],
+    answer: "turn down",
+  },
+  {
+    question:
+      "I had to ______ my vacation plans because of the family emergency.",
+    options: ["call off", "call up", "call out", "call back"],
+    answer: "call off",
+  },
+  {
+    question:
+      "She's been feeling sick all week, but she's finally starting to ______ now.",
+    options: ["get over", "get by", "get through", "get along"],
+    answer: "get over",
+  },
+  {
+    question:
+      "This is Bob speaking. I need my pocket calculator. Can I have it back tomorrow? I can't ______ it.",
+    options: ["do with", "do without", "deal with", "deal without"],
+    answer: "do without",
+  },
+  {
+    question:
+      "The fire alarm went off, so we had to ______ the building immediately.",
+    options: ["get out of", "get into", "get over", "get around"],
+    answer: "get out of",
+  },
+  {
+    question:
+      "I've been trying to ______ smoking for months, but it's really difficult.",
+    options: ["give in", "give up", "give away", "give back"],
+    answer: "give up",
+  },
+  {
+    question:
+      "Could you ______ the children while I go to the store? I'll be back in an hour.",
+    options: ["look up", "look into", "look after", "look down"],
+    answer: "look after",
+  },
+  {
+    question:
+      "The old car finally ______ on the highway. We had to call a tow truck.",
+    options: ["broke down", "broke up", "broke out", "broke into"],
+    answer: "broke down",
+  },
+  {
+    question: "I need to ______ some money for my trip to Europe next summer.",
+    options: ["put up", "put away", "put off", "put down"],
+    answer: "put away",
+  },
+  {
+    question:
+      "The deadline is tomorrow and I still have so much work left. I don't think I can ______ it all.",
+    options: ["get through", "get along", "get over", "get around"],
+    answer: "get through",
+  },
+  {
+    question:
+      "My grandmother ______ last month at the age of 95. She lived a full life.",
+    options: ["passed out", "passed by", "passed away", "passed through"],
+    answer: "passed away",
+  },
+  {
+    question:
+      "I was walking down the street when I ______ my old college roommate. What a coincidence!",
+    options: ["ran into", "ran out", "ran over", "ran away"],
+    answer: "ran into",
+  },
+  {
+    question: "The company had to ______ 50 employees due to budget cuts.",
+    options: ["let down", "let in", "let go", "let out"],
+    answer: "let go",
+  },
+  {
+    question:
+      "It's getting dark outside. Could you ______ the lights in the living room?",
+    options: ["turn off", "turn on", "turn up", "turn down"],
+    answer: "turn on",
+  },
+  {
+    question:
+      "I can't believe you ______ such a great job opportunity. Why didn't you take it?",
+    options: ["turned down", "turned up", "turned in", "turned over"],
+    answer: "turned down",
+  },
+  {
+    question:
+      "We're planning a surprise party for Sarah. Please don't ______ the secret!",
+    options: ["give away", "give up", "give in", "give back"],
+    answer: "give away",
+  },
+  {
+    question:
+      "The hotel was fully booked, but they managed to ______ us ______ at the last minute.",
+    options: ["put / up", "put / down", "put / away", "put / off"],
+    answer: "put / up",
+  },
 ];
