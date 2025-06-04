@@ -6736,7 +6736,7 @@ const quizData = [
   {
     question:
       "We’ve been working for hours—let’s call it a day. What does 'call it a day' mean in this context?",
-    options: ["start again", "stop working", "take a break"],
+    options: ["start again", "take a break", "stop working"],
     answer: "stop working",
   },
   {
@@ -6754,19 +6754,19 @@ const quizData = [
   {
     question:
       "The workers relaid the tiles after noticing they were uneven. What does 'relaid' mean here?",
-    options: ["took photos", "put down again", "painted over"],
+    options: ["took photos", "painted over", "put down again"],
     answer: "put down again",
   },
   {
     question:
       "That hairstyle is back in vogue this year. What does 'vogue' mean in this context?",
-    options: ["danger", "popularity", "confusion"],
+    options: ["danger", "confusion", "popularity"],
     answer: "popularity",
   },
   {
     question:
       "He slumped onto the couch, completely exhausted. What does 'slumped' mean here?",
-    options: ["stood up straight", "sat or fell heavily", "lay down gently"],
+    options: ["stood up straight", "lay down gently", "sat or fell heavily"],
     answer: "sat or fell heavily",
   },
   {
@@ -13543,9 +13543,9 @@ const quizData = [
     question:
       "He tried to swipe the last cookie from the jar. What does 'swipe' mean in this sentence?",
     options: [
-      "Share generously",
+      "Share generously with others",
       "Take quickly or sneakily",
-      "Examine carefully",
+      "Carefully inspect or examine",
     ],
     answer: "Take quickly or sneakily",
   },
@@ -13553,9 +13553,9 @@ const quizData = [
     question:
       "To save for the trip, they had to pinch pennies for months. What does 'pinch pennies' suggest here?",
     options: [
-      "Spend extravagantly",
+      "Spend money extravagantly",
+      "Quickly earn extra funds",
       "Save money carefully",
-      "Earn money quickly",
     ],
     answer: "Save money carefully",
   },
@@ -13563,9 +13563,9 @@ const quizData = [
     question:
       "Without a backup plan, they were up a gum tree when the deal failed. What does 'up a gum tree' mean in this context?",
     options: [
-      "In a secure position",
       "In a difficult predicament",
-      "Celebrating success",
+      "In a safe and secure position",
+      "Celebrating a successful outcome",
     ],
     answer: "In a difficult predicament",
   },
@@ -13573,9 +13573,9 @@ const quizData = [
     question:
       "The repetitive task was stultifying and drained her creativity. What does 'stultifying' imply in this sentence?",
     options: [
-      "Stimulating and engaging",
       "Dull and creativity-suppressing",
-      "Challenging but rewarding",
+      "Highly stimulating and engaging",
+      "Challenging but ultimately rewarding",
     ],
     answer: "Dull and creativity-suppressing",
   },
@@ -13584,8 +13584,8 @@ const quizData = [
       "Only her immediate family attended the private ceremony. What does 'immediate family' refer to here?",
     options: [
       "Close relatives like parents and siblings",
-      "Extended relatives like cousins",
-      "Friends and acquaintances",
+      "Extended relatives including cousins",
+      "Close friends and casual acquaintances",
     ],
     answer: "Close relatives like parents and siblings",
   },
@@ -13594,8 +13594,8 @@ const quizData = [
       "Her promotion came with a salary commensurate with her experience. What does 'commensurate' mean in this context?",
     options: [
       "Unrelated to her qualifications",
-      "Proportional to her skills",
       "Lower than expected",
+      "Proportional to her skills",
     ],
     answer: "Proportional to her skills",
   },
@@ -13610,8 +13610,8 @@ const quizData = [
       "He could learn most things by rote, but struggled with creative tasks. What does 'learn most things by rote' mean here?",
     options: [
       "Learn through critical thinking",
-      "Memorize through repetition",
       "Understand through discussion",
+      "Memorize through repetition",
     ],
     answer: "Memorize through repetition",
   },
@@ -13620,8 +13620,8 @@ const quizData = [
       "The critic slammed the movie for its weak plot. What does 'slammed' mean in this context?",
     options: [
       "Praised enthusiastically",
-      "Criticized harshly",
       "Ignored completely",
+      "Criticized harshly",
     ],
     answer: "Criticized harshly",
   },
@@ -13700,8 +13700,8 @@ const quizData = [
       "He had to do a prison stretch for the minor offense. What does 'do a prison stretch' mean in this context?",
     options: [
       "Serve a period of time in jail",
-      "Exercise while incarcerated",
-      "Escape from confinement",
+      "Exercise during incarceration",
+      "Escape from prison",
     ],
     answer: "Serve a period of time in jail",
   },
@@ -13709,9 +13709,9 @@ const quizData = [
     question:
       "To afford the vacation, they had to stretch their budget carefully. What does 'stretch your budget' imply here?",
     options: [
-      "Spend money freely",
+      "Spend money without restraint",
       "Make resources last longer",
-      "Borrow extra funds",
+      "Borrow extra money",
     ],
     answer: "Make resources last longer",
   },
@@ -13720,8 +13720,8 @@ const quizData = [
       "The coach advised the team to stretch before exercise to avoid injuries. What does 'stretch before exercise' mean in this sentence?",
     options: [
       "Warm up muscles to prepare",
-      "Rest before starting",
-      "Compete immediately",
+      "Rest before any activity",
+      "Compete right away",
     ],
     answer: "Warm up muscles to prepare",
   },
@@ -13729,9 +13729,9 @@ const quizData = [
     question:
       "Her new jacket was made of stretch fabric for a comfortable fit. What does 'stretch fabric' refer to here?",
     options: [
-      "Material that is rigid",
+      "Material that stays rigid",
       "Cloth that expands and contracts",
-      "Fabric that is waterproof",
+      "Fabric that resists water",
     ],
     answer: "Cloth that expands and contracts",
   },
@@ -13791,9 +13791,9 @@ const quizData = [
     question:
       "The team tried to stretch the limits of the new technology. What does 'stretch the limits' suggest in this context?",
     options: [
-      "Stay within boundaries",
+      "Remain within established boundaries",
       "Push capabilities to the maximum",
-      "Ignore restrictions entirely",
+      "Completely ignore all restrictions",
     ],
     answer: "Push capabilities to the maximum",
   },
@@ -13801,9 +13801,9 @@ const quizData = [
     question:
       "The workers had to bear a heavy load to complete the construction. What does 'bear a heavy load' mean in this context?",
     options: [
-      "Avoid physical effort",
+      "Avoid exerting physical effort",
       "Carry or support a burden",
-      "Delegate tasks to others",
+      "Delegate tasks to other workers",
     ],
     answer: "Carry or support a burden",
   },
@@ -13811,9 +13811,9 @@ const quizData = [
     question:
       "She had to bear the pain of her injury during the race. What does 'bear the pain' imply here?",
     options: [
-      "Ignore discomfort completely",
+      "Disregard all physical discomfort",
       "Endure or tolerate discomfort",
-      "Cause pain to others",
+      "Cause discomfort to other racers",
     ],
     answer: "Endure or tolerate discomfort",
   },
@@ -13821,9 +13821,9 @@ const quizData = [
     question:
       "He chose to bear responsibility for the team’s mistake. What does 'bear responsibility' mean in this sentence?",
     options: [
-      "Deny any involvement",
+      "Deny any role in the issue",
       "Accept or take on accountability",
-      "Share success publicly",
+      "Publicly celebrate team success",
     ],
     answer: "Accept or take on accountability",
   },
@@ -13864,8 +13864,8 @@ const quizData = [
       "She was called to bear witness in the court case. What does 'bear witness' imply in this context?",
     options: [
       "Provide testimony or confirmation",
-      "Observe silently",
-      "Avoid involvement",
+      "Observe silently without speaking",
+      "Avoid any form of involvement",
     ],
     answer: "Provide testimony or confirmation",
   },
@@ -13873,9 +13873,9 @@ const quizData = [
     question:
       "Bear in mind that the deadline is tomorrow. What does 'bear in mind' mean in this sentence?",
     options: [
-      "Forget intentionally",
       "Remember or consider",
-      "Ignore completely",
+      "Intentionally forget about it",
+      "Completely ignore the matter",
     ],
     answer: "Remember or consider",
   },
@@ -13883,9 +13883,9 @@ const quizData = [
     question:
       "The storm seemed to bear down on the small village with fierce winds. What does 'bear down on something' suggest here?",
     options: [
-      "Move away slowly",
       "Press or push with force",
-      "Lighten in intensity",
+      "Slowly retreat or move away",
+      "Gradually lessen in intensity",
     ],
     answer: "Press or push with force",
   },
@@ -13975,9 +13975,9 @@ const quizData = [
     question:
       "Her speech was tinged with sadness as she spoke of her loss. What does 'tinged' imply in this context?",
     options: [
-      "Filled with joy",
+      "Overflowing with joyful emotion",
+      "Entirely transformed in tone",
       "Slightly colored or affected",
-      "Completely transformed",
     ],
     answer: "Slightly colored or affected",
   },
@@ -13986,8 +13986,8 @@ const quizData = [
       "After the long day, he was dead to the world and didn’t hear the phone. What does 'dead to the world' mean here?",
     options: [
       "Deeply asleep or unresponsive",
-      "Extremely alert",
-      "Socially active",
+      "Extremely alert and attentive",
+      "Highly active in social settings",
     ],
     answer: "Deeply asleep or unresponsive",
   },
@@ -13995,9 +13995,9 @@ const quizData = [
     question:
       "His laconic reply left everyone wanting more details. What does 'laconic' mean in this sentence?",
     options: [
-      "Wordy and excessive",
+      "Overly wordy and long-winded",
       "Brief and to the point",
-      "Confusing and vague",
+      "Vague and hard to understand",
     ],
     answer: "Brief and to the point",
   },
@@ -14005,9 +14005,9 @@ const quizData = [
     question:
       "They served bangers and mash at the pub for dinner. What does 'bangers and mash' refer to here?",
     options: [
-      "A type of dessert",
       "Sausages and mashed potatoes",
-      "A dance performance",
+      "A sweet dessert with cream",
+      "A lively dance performance",
     ],
     answer: "Sausages and mashed potatoes",
   },
@@ -14015,9 +14015,9 @@ const quizData = [
     question:
       "The film featured blonde bombshells as the main characters. What does 'blonde bombshells' imply in this context?",
     options: [
-      "Quiet and reserved women",
+      "Shy and reserved blonde women",
+      "Blonde experts in science",
       "Strikingly attractive blonde women",
-      "Blonde scientists",
     ],
     answer: "Strikingly attractive blonde women",
   },
@@ -14025,9 +14025,9 @@ const quizData = [
     question:
       "The rainy day filled her with ennui, making her feel restless. What does 'ennui' mean in this sentence?",
     options: [
-      "Excitement and energy",
+      "Bursting with excitement and energy",
+      "Strong sense of confidence and focus",
       "Boredom and dissatisfaction",
-      "Confidence and focus",
     ],
     answer: "Boredom and dissatisfaction",
   },
