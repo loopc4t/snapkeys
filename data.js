@@ -17690,4 +17690,1002 @@ const quizData = [
     options: ["put / up", "put / down", "put / away", "put / off"],
     answer: "put / up",
   },
+  {
+    question:
+      "The critics really ______ the new movie in their reviews. It got terrible ratings.",
+    options: ["bashed", "slammed", "hit"],
+    answer: "bashed",
+  },
+  {
+    question: "She angrily ______ the door behind her when she left the room.",
+    options: ["bashed", "slammed", "hit"],
+    answer: "slammed",
+  },
+  {
+    question:
+      "The new restaurant really ______ it big with customers on opening night.",
+    options: ["bashed", "slammed", "hit"],
+    answer: "hit",
+  },
+  {
+    question: "The car ______ into the wall during the crash test.",
+    options: ["bashed", "slammed", "hit"],
+    answer: "slammed",
+  },
+  {
+    question: "The hurricane is expected to ______ the coast tomorrow morning.",
+    options: ["bash", "slam", "hit"],
+    answer: "hit",
+  },
+  {
+    question: "I'll meet you ______ the corner of Main Street and Oak Avenue.",
+    options: ["at", "on", "in", "by"],
+    answer: "at",
+  },
+  {
+    question: "The meeting starts ______ 9:00 AM exactly.",
+    options: ["in", "on", "at", "by"],
+    answer: "at",
+  },
+  {
+    question: "Please put the books ______ the shelf in alphabetical order.",
+    options: ["in", "at", "on", "under"],
+    answer: "on",
+  },
+  {
+    question: "She's excellent ______ solving mathematical problems.",
+    options: ["in", "at", "on", "with"],
+    answer: "at",
+  },
+  {
+    question: "The party is ______ Saturday night.",
+    options: ["in", "on", "at", "during"],
+    answer: "on",
+  },
+  {
+    question: "He traveled ______ plane to reach the conference.",
+    options: ["by", "on", "in", "with"],
+    answer: "by",
+  },
+  {
+    question: "I've been waiting ______ two hours for the bus.",
+    options: ["since", "for", "during", "in"],
+    answer: "for",
+  },
+  {
+    question: "The cat is hiding ______ the bed.",
+    options: ["on", "at", "under", "above"],
+    answer: "under",
+  },
+  {
+    question: "We need to finish this project ______ Friday.",
+    options: ["until", "at", "on", "by"],
+    answer: "by",
+  },
+  {
+    question: "She's afraid ______ spiders and insects.",
+    options: ["for", "about", "with", "of"],
+    answer: "of",
+  },
+  {
+    question: "The store is located ______ the shopping mall.",
+    options: ["at", "on", "by", "in"],
+    answer: "in",
+  },
+  {
+    question: "I learned about this ______ the internet.",
+    options: ["in", "at", "on", "from"],
+    answer: "on",
+  },
+  {
+    question:
+      "Halloween is celebrated ______ the United States ______ October 31.",
+    options: ["in, on", "at, in", "on, at", "by, during"],
+    answer: "in, on",
+  },
+  {
+    question:
+      "Are you going away for the weekend? – I don't know. It depends ______ the weather.",
+    options: ["on", "from", "of", "with"],
+    answer: "on",
+  },
+  {
+    question: "Don't kiss the prince. He might turn ______ a frog.",
+    options: ["to", "into", "in", "on"],
+    answer: "into",
+  },
+  {
+    question: "He felt bad ______ no reason at all.",
+    options: ["with", "from", "for", "of"],
+    answer: "for",
+  },
+  {
+    question: "I have been living here ______ ten years.",
+    options: ["since", "during", "in", "for"],
+    answer: "for",
+  },
+  {
+    question:
+      "Have you been ______ the cinema recently? Yes I was there a few days ago.",
+    options: ["at", "in", "to", "on"],
+    answer: "to",
+  },
+  {
+    question: "I happened to meet an old friend ______ town.",
+    options: ["at", "on", "in", "by"],
+    answer: "in",
+  },
+  {
+    question:
+      "Have you read the article? – It was ______ yesterday's newspapers.",
+    options: ["on", "in", "at", "from"],
+    answer: "in",
+  },
+  {
+    question:
+      "He always drives ______ a tremendous speed because he's always ______ a hurry.",
+    options: ["at, in", "with, on", "by, for", "on, with"],
+    answer: "at, in",
+  },
+  {
+    question: "He is very fond ______ good food.",
+    options: ["with", "for", "about", "of"],
+    answer: "of",
+  },
+  {
+    question: "He married ______ the age of 28.",
+    options: ["at", "in", "on", "by"],
+    answer: "at",
+  },
+  {
+    question: "I bought many things ______ my stay in New York.",
+    options: ["for", "during", "in", "through"],
+    answer: "during",
+  },
+  {
+    question: "According ______ the guide there are three hotels ______ town.",
+    options: ["to, in", "with, at", "by, on", "from, by"],
+    answer: "to, in",
+  },
+  {
+    question:
+      "I saw him standing ______ the queue but I don't know if he got ______ the bus.",
+    options: ["in, on", "at, in", "on, to", "by, at"],
+    answer: "in, on",
+  },
+  {
+    question: "I want to post this letter ______ a friend.",
+    options: ["for", "to", "with", "at"],
+    answer: "to",
+  },
+  {
+    question:
+      "I'm going ______ Glasgow on Monday. Would you like to come with us?",
+    options: ["to", "in", "at", "for"],
+    answer: "to",
+  },
+  {
+    question: "John has got a very strange taste ______ clothes.",
+    options: ["for", "with", "of", "in"],
+    answer: "in",
+  },
+  {
+    question: "Mum sat ______ the back of the car.",
+    options: ["on", "at", "in", "by"],
+    answer: "in",
+  },
+  {
+    question:
+      "I'm interested ______ basketball but I'm not very good ______ playing it.",
+    options: ["in, at", "with, in", "about, with", "for, on"],
+    answer: "in, at",
+  },
+  {
+    question: "I'm returning ______ Spain ______ the end of the month.",
+    options: ["in, on", "at, in", "to, at", "to, by"],
+    answer: "to, at",
+  },
+  {
+    question: "My parents met ______ the war, in 1943.",
+    options: ["during", "in", "at", "through"],
+    answer: "during",
+  },
+  {
+    question: "Is it true that your mother died ______ cancer?",
+    options: ["from", "of", "with", "by"],
+    answer: "of",
+  },
+  {
+    question:
+      "It was embarrassing. I didn't have enough money ______ pay for the meal.",
+    options: ["for", "with", "by", "to"],
+    answer: "to",
+  },
+  {
+    question: "It was ______ the radio yesterday morning.",
+    options: ["in", "at", "on", "from"],
+    answer: "on",
+  },
+  {
+    question: "It's a quick journey ______ Manchester ______ Leeds.",
+    options: ["from, to", "to, from", "in, at", "at, in"],
+    answer: "from, to",
+  },
+  {
+    question: "Jane goes to the office early ______ Tuesdays.",
+    options: ["in", "at", "on", "during"],
+    answer: "on",
+  },
+  {
+    question: "I saw him sometime ______ June.",
+    options: ["on", "at", "in", "during"],
+    answer: "in",
+  },
+  {
+    question: "Meet me ______ the station.",
+    options: ["in", "on", "by", "at"],
+    answer: "at",
+  },
+  {
+    question: "The lights are moving ______ us.",
+    options: ["to", "at", "towards", "for"],
+    answer: "towards",
+  },
+  {
+    question: "My country is famous ______ great musicians.",
+    options: ["of", "with", "for", "by"],
+    answer: "for",
+  },
+  {
+    question: "Who is that girl over there ______ the red dress?",
+    options: ["with", "in", "on", "by"],
+    answer: "in",
+  },
+  {
+    question:
+      "I live ______ Sweden but every summer I travel ______ Spain for my holidays.",
+    options: ["in, to", "at, in", "on, for", "by, at"],
+    answer: "in, to",
+  },
+  {
+    question:
+      "Turn right ______ the end of the street and then it will be right in front of you.",
+    options: ["in", "on", "at", "by"],
+    answer: "at",
+  },
+  {
+    question:
+      "My sister has a beautiful apartment. She lives ______ the third floor.",
+    options: ["in", "at", "on", "by"],
+    answer: "on",
+  },
+  {
+    question: "Please sit down. Mr. Brown will be ______ you in a moment.",
+    options: ["to", "for", "at", "with"],
+    answer: "with",
+  },
+  {
+    question: "I have to apologize ______ being late.",
+    options: ["about", "for", "of", "with"],
+    answer: "for",
+  },
+  {
+    question:
+      "She tried to prevent the children ______ jumping into the water.",
+    options: ["of", "for", "from", "to"],
+    answer: "from",
+  },
+  {
+    question: "Sometimes I have to walk to work and sometimes I go ______ bus.",
+    options: ["on", "in", "by", "with"],
+    answer: "by",
+  },
+  {
+    question: "Thank you ______ coming to visit us.",
+    options: ["to", "for", "with", "of"],
+    answer: "for",
+  },
+  {
+    question: "The boys met ______ the corner of the street.",
+    options: ["in", "on", "by", "at"],
+    answer: "at",
+  },
+  {
+    question: "The smallest room is located ______ the left of the hall.",
+    options: ["at", "in", "on", "to"],
+    answer: "on",
+  },
+  {
+    question: "We entered the building ______ entrance number 3.",
+    options: ["by", "through", "from", "at"],
+    answer: "through",
+  },
+  {
+    question: "There was a dark spot ______ the ceiling.",
+    options: ["in", "at", "on", "by"],
+    answer: "on",
+  },
+  {
+    question: "We arrived just ______ time to see the Queen.",
+    options: ["on", "at", "by", "in"],
+    answer: "in",
+  },
+  {
+    question: "We have to be at the airport ______ 6 p.m.",
+    options: ["on", "in", "by", "at"],
+    answer: "at",
+  },
+  {
+    question: "We ran ______ the doctor on our way to the bookshop.",
+    options: ["to", "into", "at", "with"],
+    answer: "into",
+  },
+  {
+    question: "The two friends went ______ the movies by themselves.",
+    options: ["to", "at", "in", "on"],
+    answer: "to",
+  },
+  {
+    question: "During the summer I stayed ______ my grandparents.",
+    options: ["at", "with", "by", "in"],
+    answer: "with",
+  },
+  {
+    question: "I'll wait for you ______ the bus stop.",
+    options: ["in", "on", "at", "by"],
+    answer: "at",
+  },
+  {
+    question: "The milk is ______ the refrigerator next to the orange juice.",
+    options: ["at", "on", "by", "in"],
+    answer: "in",
+  },
+  {
+    question: "She came and sat ______ her husband.",
+    options: ["with", "beside", "at", "by"],
+    answer: "beside",
+  },
+  {
+    question: "______ we saw the television show on bears we drove to the zoo.",
+    options: ["Before", "After", "During", "Throughout"],
+    answer: "After",
+  },
+  {
+    question: "______ the day, the rain came into the window.",
+    options: ["During", "Throughout", "In", "At"],
+    answer: "Throughout",
+  },
+  {
+    question: "The phone rang ______ the middle of the night.",
+    options: ["at", "in", "on", "during"],
+    answer: "in",
+  },
+  {
+    question:
+      "The film 'JFK' is being shown ______ on Monday night at 9 p.m. on Channel 4.",
+    options: ["on the phone", "on television", "on sale", "on loan"],
+    answer: "on television",
+  },
+  {
+    question:
+      "150 passengers ______ an Alpine train in Kaprun died when the train caught fire inside a tunnel.",
+    options: ["on guard", "on board", "on strike", "on foot"],
+    answer: "on board",
+  },
+  {
+    question:
+      "While we were ______ our ship anchored at Istanbul, where we visited the Grand Bazaar and Topkapi Palace.",
+    options: ["on a trip", "on a cruise", "on an expedition", "on board"],
+    answer: "on a cruise",
+  },
+  {
+    question:
+      "Barcelona's centre is a maze of narrow streets and medieval buildings, in contrast to the modern apartment buildings ______ of the city.",
+    options: [
+      "on the outskirts",
+      "on the whole",
+      "on average",
+      "on the increase",
+    ],
+    answer: "on the outskirts",
+  },
+  {
+    question:
+      "I am afraid the book 'Little House of the Prairie' is ______ from the library at the moment. Would you like to reserve it?",
+    options: ["on sale", "on loan", "on fire", "on strike"],
+    answer: "on loan",
+  },
+  {
+    question:
+      "Do you pass a newsagent ______ to work? If you do, would you mind picking me up the Times?",
+    options: ["on your way", "on a trip", "on foot", "on board"],
+    answer: "on your way",
+  },
+  {
+    question:
+      "I don't think the baby dropped it. I think she threw it to the ground ______ in order to gain our attention.",
+    options: ["on occasions", "on average", "on purpose", "on the whole"],
+    answer: "on purpose",
+  },
+  {
+    question:
+      "How long have you been ______? – For three weeks now, but I can't resist eating a little chocolate so I haven't lost much weight yet.",
+    options: ["on a diet", "on sale", "on loan", "on strike"],
+    answer: "on a diet",
+  },
+  {
+    question:
+      "Two days after the bombing, we could still see the flames from the building ______.",
+    options: ["on sale", "on fire", "on strike", "on guard"],
+    answer: "on fire",
+  },
+  {
+    question: "In 1984, the British coal miners went ______ for almost a year.",
+    options: ["on fire", "on guard", "on strike", "on loan"],
+    answer: "on strike",
+  },
+  {
+    question:
+      "The number of European and American companies investing in underdeveloped countries is ______ as they take advantage of lower wages.",
+    options: ["on the whole", "on average", "on the increase", "on occasions"],
+    answer: "on the increase",
+  },
+  {
+    question:
+      "The owner of the hotel is a qualified chef, but he rarely cooks himself nowadays. However, ______ he helps the head chef in the kitchen if the restaurant is busy.",
+    options: ["on occasions", "on average", "on the whole", "on purpose"],
+    answer: "on occasions",
+  },
+  {
+    question:
+      "I do have a few suggestions that should improve your presentation, but ______ I think it was an excellent speech.",
+    options: ["on occasions", "on the whole", "on average", "on purpose"],
+    answer: "on the whole",
+  },
+  {
+    question:
+      "We went ______ to Paris for a day on the train and saw the Eiffel Tower and Notre Dame Cathedral.",
+    options: ["on a trip", "on a cruise", "on an expedition", "on foot"],
+    answer: "on a trip",
+  },
+  {
+    question:
+      "She is supposed to be studying for her exam but whenever I go to her room she is ______ chatting to her friends.",
+    options: ["on television", "on the phone", "on board", "on guard"],
+    answer: "on the phone",
+  },
+  {
+    question:
+      "We bought a stereo music center that was ______ because it was in the display window.",
+    options: ["on loan", "on sale", "on fire", "on strike"],
+    answer: "on sale",
+  },
+  {
+    question:
+      "All the roads that led to the town centre were closed because of the flood so it was only possible to reach the main square ______.",
+    options: ["on foot", "on board", "on purpose", "on guard"],
+    answer: "on foot",
+  },
+  {
+    question: "A human heart beats 72 times per minute ______.",
+    options: ["on occasions", "on the whole", "on average", "on purpose"],
+    answer: "on average",
+  },
+  {
+    question:
+      "At the beginning of the 16th century, ______ of the South American jungles, Balboa became the first European to look at the Pacific Ocean.",
+    options: [
+      "on a trip",
+      "on a cruise",
+      "on the outskirts",
+      "on an expedition",
+    ],
+    answer: "on an expedition",
+  },
+  {
+    question:
+      "The warders who are ______ at the Tower of London to protect valuable jewels are also known as 'Beefeaters'.",
+    options: ["on guard", "on strike", "on board", "on fire"],
+    answer: "on guard",
+  },
+  {
+    question: "Some boys were crawling ______ under the car.",
+    options: ["down", "around", "about", "above"],
+    answer: "around",
+  },
+  {
+    question: "His notebook fell ______ the floor.",
+    options: ["in", "at", "on", "to"],
+    answer: "on",
+  },
+  {
+    question: "The plane flew ______ the clouds.",
+    options: ["through", "above", "over", "in"],
+    answer: "above",
+  },
+  {
+    question: "Peter doesn't go to work ______ Fridays.",
+    options: ["in", "at", "on", "during"],
+    answer: "on",
+  },
+  {
+    question: "Open your book ______ page 9.",
+    options: ["on", "at", "to", "in"],
+    answer: "to",
+  },
+  {
+    question: "Can you see a yellow house ______ the left?",
+    options: ["at", "in", "on", "to"],
+    answer: "on",
+  },
+  {
+    question: "There was a picture ______ the wall ______ the bed.",
+    options: ["on, above", "at, on", "in, beside", "by, at"],
+    answer: "on, above",
+  },
+  {
+    question: "All the latest computers will be shown ______ the exhibition.",
+    options: ["in", "at", "on", "by"],
+    answer: "at",
+  },
+  {
+    question: "He came to see how I was getting ______.",
+    options: ["by", "around", "on", "through"],
+    answer: "on",
+  },
+  {
+    question: "I am very interested ______ documentaries on TV.",
+    options: ["about", "in", "with", "for"],
+    answer: "in",
+  },
+  {
+    question: "I am surprised ______ how much money they want to pay him.",
+    options: ["about", "at", "with", "of"],
+    answer: "at",
+  },
+  {
+    question: "Nobody in the family has heard ______ the accident.",
+    options: ["about", "of", "from", "with"],
+    answer: "about",
+  },
+  {
+    question: "She comes ______ a poor family.",
+    options: ["of", "from", "with", "by"],
+    answer: "from",
+  },
+  {
+    question: "I am quite good ______ art.",
+    options: ["in", "at", "with", "for"],
+    answer: "at",
+  },
+  {
+    question: "Jack came rushing ______ the stairs.",
+    options: ["down", "on", "from", "at"],
+    answer: "down",
+  },
+  {
+    question: "Turn right ______ the next traffic lights.",
+    options: ["on", "in", "at", "by"],
+    answer: "at",
+  },
+  {
+    question: "Her mother is looking forward ______ going to Australia.",
+    options: ["for", "about", "to", "with"],
+    answer: "to",
+  },
+  {
+    question: "The film is based ______ a novel by John Grisham.",
+    options: ["in", "at", "from", "on"],
+    answer: "on",
+  },
+  {
+    question:
+      "John is totally obsessed ______ football. He thinks of nothing else.",
+    options: ["about", "with", "of", "by"],
+    answer: "with",
+  },
+  {
+    question: "I prefer coffee ______ tea.",
+    options: ["than", "from", "over", "to"],
+    answer: "to",
+  },
+  {
+    question: "Let's divide this money ______ us.",
+    options: ["with", "for", "to", "between"],
+    answer: "between",
+  },
+  {
+    question: "I like travelling ______ boat in summer.",
+    options: ["on", "in", "with", "by"],
+    answer: "by",
+  },
+  {
+    question:
+      "When I was younger I was always afraid ______ going to the dentist.",
+    options: ["about", "for", "with", "of"],
+    answer: "of",
+  },
+  {
+    question: "Mary's in the kitchen looking ______ her car keys.",
+    options: ["at", "for", "after", "around"],
+    answer: "for",
+  },
+  {
+    question: "Are you really happy ______ your life here?",
+    options: ["about", "for", "with", "of"],
+    answer: "with",
+  },
+  {
+    question: "He was quite pleased ______ the results.",
+    options: ["about", "for", "with", "of"],
+    answer: "with",
+  },
+  {
+    question: "This is a painting ______ an unknown artist.",
+    options: ["from", "of", "by", "with"],
+    answer: "by",
+  },
+  {
+    question: "I am proud ______ being a teacher.",
+    options: ["about", "for", "with", "of"],
+    answer: "of",
+  },
+  {
+    question: "Don't worry ______ it. Everything will be fine.",
+    options: ["for", "with", "about", "of"],
+    answer: "about",
+  },
+  {
+    question:
+      "My father tells us fascinating stories ______ his years in the navy.",
+    options: ["of", "about", "from", "with"],
+    answer: "about",
+  },
+  {
+    question: "Did you call attention ______ their mistake?",
+    options: ["about", "for", "with", "to"],
+    answer: "to",
+  },
+  {
+    question:
+      "______ to the headmaster, both of the boys got involved in the fight.",
+    options: ["According", "Based", "Related", "Due"],
+    answer: "According",
+  },
+  {
+    question: "Except ______ that one, all the sentences were easy.",
+    options: ["of", "from", "for", "with"],
+    answer: "for",
+  },
+  {
+    question: "Be careful. They will lose faith ______ you.",
+    options: ["of", "for", "with", "in"],
+    answer: "in",
+  },
+  {
+    question: "The girls worked ______ their lessons for half an hour.",
+    options: ["at", "on", "with", "for"],
+    answer: "on",
+  },
+  {
+    question: "He depends ______ his sister for help.",
+    options: ["of", "from", "on", "with"],
+    answer: "on",
+  },
+  {
+    question: "Miss Wilson is very fond ______ French food.",
+    options: ["about", "with", "for", "of"],
+    answer: "of",
+  },
+  {
+    question: "There were ______ a thousand people at the concert.",
+    options: ["about", "over", "above", "at"],
+    answer: "about",
+  },
+  {
+    question: "You must be ______ 18 in order to see the film.",
+    options: ["around", "over", "exactly", "below"],
+    answer: "over",
+  },
+  {
+    question: "We are travelling ______ the road towards the city center.",
+    options: ["on", "in", "down", "by"],
+    answer: "down",
+  },
+  {
+    question: "He is suffering ______ an unknown illness.",
+    options: ["of", "with", "by", "from"],
+    answer: "from",
+  },
+  {
+    question: "I listened to the game ______ the radio.",
+    options: ["in", "at", "on", "from"],
+    answer: "on",
+  },
+  {
+    question: "How are you getting _____ with your studies at school?",
+    options: ["by", "on", "through", "around"],
+    answer: "on",
+  },
+  {
+    question: "Don't be impatient _____ us. We are trying!",
+    options: ["about", "of", "for", "with"],
+    answer: "with",
+  },
+  {
+    question: "Could I speak _____ Tom's manager please?",
+    options: ["with", "to", "about", "from"],
+    answer: "to",
+  },
+  {
+    question:
+      "We arrived late and left _____ the last act, so we missed the ending.",
+    options: ["during", "after", "before", "at"],
+    answer: "before",
+  },
+  {
+    question: "There were some beautiful pictures _____ the walls.",
+    options: ["in", "at", "on", "above"],
+    answer: "on",
+  },
+  {
+    question:
+      "The march started in the park. _____ there we moved to City Hall.",
+    options: ["After", "From", "Before", "During"],
+    answer: "From",
+  },
+  {
+    question: "Pessimism is bad _____ your health.",
+    options: ["to", "with", "for", "of"],
+    answer: "for",
+  },
+  {
+    question: "He asked his mother _____ a loan for his new business.",
+    options: ["about", "with", "of", "for"],
+    answer: "for",
+  },
+  {
+    question: "I bought many things _____ my stay in New York.",
+    options: ["for", "during", "in", "at"],
+    answer: "during",
+  },
+  {
+    question: "My country is famous _____ historical sights.",
+    options: ["of", "with", "for", "by"],
+    answer: "for",
+  },
+  {
+    question: "I'm not _____ a hurry. I can wait.",
+    options: ["on", "at", "in", "with"],
+    answer: "in",
+  },
+  {
+    question: "Have you ever been _____ the theatre recently?",
+    options: ["in", "at", "to", "on"],
+    answer: "to",
+  },
+  {
+    question: "We arrived _____ the airport _____ time for the plane.",
+    options: ["at, in", "to, on", "in, at", "on, for"],
+    answer: "at, in",
+  },
+  {
+    question:
+      "My grandfather died _____ complications related to his heart condition.",
+    options: ["from", "of", "with", "by"],
+    answer: "of",
+  },
+  {
+    question: "The resort lies about 1,500 meters _____ sea level.",
+    options: ["over", "above", "on", "at"],
+    answer: "above",
+  },
+  {
+    question: "He held his hands _____ his face, hiding his expression.",
+    options: ["on", "over", "above", "in front of"],
+    answer: "in front of",
+  },
+  {
+    question: "There's a chair _____ my desk, out of the way.",
+    options: ["on", "behind", "above", "next to"],
+    answer: "behind",
+  },
+  {
+    question: "The thief jumped _____ the window.",
+    options: ["from", "over", "down", "out of"],
+    answer: "out of",
+  },
+  {
+    question:
+      "Both of my neighbors can take care _____ the cat while you are gone.",
+    options: ["about", "for", "with", "of"],
+    answer: "of",
+  },
+  {
+    question:
+      "I rarely think _____ the weather forecast; I just deal with it as it comes.",
+    options: ["of", "on", "from", "about"],
+    answer: "about",
+  },
+  {
+    question: "They were always arguing _____ silly things.",
+    options: ["for", "with", "about", "of"],
+    answer: "about",
+  },
+  {
+    question:
+      "_____ first I found the work very tiring but _____ a few weeks I got used to it.",
+    options: ["At, after", "In, during", "On, for", "By, in"],
+    answer: "At, after",
+  },
+  {
+    question: "My house is _____ the end of the road.",
+    options: ["in", "on", "at", "by"],
+    answer: "at",
+  },
+  {
+    question: "The article was _____ yesterday's papers.",
+    options: ["on", "at", "in", "from"],
+    answer: "in",
+  },
+  {
+    question: "The classroom is _____ the fourth floor.",
+    options: ["in", "at", "on", "by"],
+    answer: "on",
+  },
+  {
+    question: "I applied _____ a few jobs last week, but nobody wrote back.",
+    options: ["to", "for", "with", "at"],
+    answer: "for",
+  },
+  {
+    question: "He wants two seats _____ the concert on Friday night.",
+    options: ["to", "at", "for", "in"],
+    answer: "for",
+  },
+  {
+    question:
+      "You ought to be ashamed _____ yourself _____ coming in with dirty boots.",
+    options: ["with, about", "about, of", "of, for", "for, with"],
+    answer: "of, for",
+  },
+  {
+    question:
+      "There's no point _____ going _____ car if we can't park near the theatre.",
+    options: ["of, in", "in, by", "for, with", "about, on"],
+    answer: "in, by",
+  },
+  {
+    question: "He started his training _____ November.",
+    options: ["on", "at", "in", "during"],
+    answer: "in",
+  },
+  {
+    question: "Whom did they vote _____?",
+    options: ["to", "with", "for", "on"],
+    answer: "for",
+  },
+  {
+    question:
+      "The bus stopped _____ the corner of High Street and Congress Avenue.",
+    options: ["in", "on", "at", "by"],
+    answer: "at",
+  },
+  {
+    question: "I love listening _____ classical music.",
+    options: ["at", "for", "with", "to"],
+    answer: "to",
+  },
+  {
+    question: "He is _____ Dallas, Texas but he was born in California.",
+    options: ["in", "at", "from", "of"],
+    answer: "from",
+  },
+  {
+    question: "She goes _____ church every Sunday.",
+    options: ["in", "at", "to", "for"],
+    answer: "to",
+  },
+  {
+    question:
+      "It's 7 a.m. We need to leave _____ work at once or else we'll miss the bus.",
+    options: ["to", "at", "for", "from"],
+    answer: "for",
+  },
+  {
+    question: "I asked the policeman _____ some information.",
+    options: ["about", "with", "of", "for"],
+    answer: "for",
+  },
+  {
+    question: "The great player hit the ball _____ the net.",
+    options: ["on", "at", "over", "above"],
+    answer: "over",
+  },
+  {
+    question: "Can you find our holiday beach _____ the map?",
+    options: ["in", "at", "on", "from"],
+    answer: "on",
+  },
+  {
+    question: "Please turn _____ the volume of the radio. I'm getting deaf.",
+    options: ["off", "on", "up", "down"],
+    answer: "down",
+  },
+  {
+    question:
+      "He always talks tough, but when push comes to shove, he avoids confrontation. What does 'when push comes to shove' mean here?",
+    options: [
+      "During a casual situation",
+      "When people are physically fighting",
+      "When things get serious or difficult",
+    ],
+    answer: "When things get serious or difficult",
+  },
+  {
+    question:
+      "A political rift formed between the two former allies. What does 'rift' mean in this sentence?",
+    options: [
+      "A friendly competition",
+      "A serious break or disagreement",
+      "An open space or gap in the land",
+    ],
+    answer: "A serious break or disagreement",
+  },
+  {
+    question:
+      "The burly man easily lifted the heavy crate onto the truck. What does 'burly' describe here?",
+    options: ["Short and quiet", "Large and muscular", "Quick and thin"],
+    answer: "Large and muscular",
+  },
+  {
+    question:
+      "This film is a rare crossover between science fiction and romance. What does 'crossover' mean in this context?",
+    options: [
+      "A shift from one genre to another",
+      "A remake done in the same style",
+      "A mix of two different genres",
+    ],
+    answer: "A mix of two different genres",
+  },
+  {
+    question:
+      "The band’s latest song is a throwback to the sound of the 80s. What does 'throwback' imply here?",
+    options: [
+      "A nod to an earlier style",
+      "A jump to a future trend",
+      "A break from older styles",
+    ],
+    answer: "A nod to an earlier style",
+  },
+  {
+    question:
+      "Her condescending tone made everyone feel uncomfortable. What does 'condescending' mean in this sentence?",
+    options: [
+      "Talking down to others",
+      "Being vague on purpose",
+      "Speaking with kindness",
+    ],
+    answer: "Talking down to others",
+  },
+  {
+    question:
+      "The scandal could besmirch his reputation permanently. What does 'besmirch' mean here?",
+    options: [
+      "Improve or restore someone's reputation",
+      "Publicly question someone’s decisions",
+      "Damage or tarnish someone's reputation",
+    ],
+    answer: "Damage or tarnish someone's reputation",
+  },
+  {
+    question:
+      "Due to budget cuts, the company had to curtail its operations. What does 'curtail' mean in this sentence?",
+    options: [
+      "Expand or increase something",
+      "Pause temporarily without change",
+      "Reduce or limit something",
+    ],
+    answer: "Reduce or limit something",
+  },
 ];
