@@ -9144,8 +9144,8 @@ const quizData = [
   {
     question:
       "They ______ miss my favourite show if they bought a video recorder.",
-    options: ["won't miss", "wouldn't have missed", "wouldn't miss"],
-    answer: "wouldn't miss",
+    options: ["won't", "wouldn't have", "wouldn't"],
+    answer: "wouldn't",
   },
   {
     question: "We went skiing in winter and _____ a camping holiday in summer.",
@@ -18687,5 +18687,197 @@ const quizData = [
       "Reduce or limit something",
     ],
     answer: "Reduce or limit something",
+  },
+  {
+    question:
+      "He could only shamble to the finish line after the grueling race. What does 'shamble' mean here?",
+    options: ["sprint", "stumble", "dance", "stride"],
+    answer: "stumble",
+  },
+  {
+    question:
+      "After the scandal, she became a pariah in her community. What does 'pariah' mean in this context?",
+    options: ["outcast", "hero", "leader", "friend"],
+    answer: "outcast",
+  },
+  {
+    question:
+      "The meeting was unusually subdued after the budget cuts were announced. What does 'subdued' mean in this sentence?",
+    options: ["lively", "chaotic", "joyful", "quiet"],
+    answer: "quiet",
+  },
+  {
+    question:
+      "They set up an ad-hoc team to handle the unexpected issue. What does 'ad-hoc' mean here?",
+    options: ["temporary", "permanent", "formal", "routine"],
+    answer: "temporary",
+  },
+  {
+    question:
+      "She was gleeful when she won the competition. What does 'gleeful' mean in this context?",
+    options: ["bored", "angry", "joyful", "tired"],
+    answer: "joyful",
+  },
+  {
+    question:
+      "If he keeps ignoring the warnings, he’s dead meat with the coach. What does 'dead meat' mean in this context?",
+    options: ["safe", "successful", "calm", "troubled"],
+    answer: "troubled",
+  },
+  {
+    question:
+      "The report was so prosaic that it failed to capture anyone’s interest. What does 'prosaic' mean here?",
+    options: ["boring", "vivid", "complex", "funny"],
+    answer: "boring",
+  },
+  {
+    question:
+      "After leaving the job, he received a generous severance package. What does 'severance' mean in this sentence?",
+    options: ["bonus", "warning", "task", "payment"],
+    answer: "payment",
+  },
+  {
+    question:
+      "The office had a collegial vibe, with everyone sharing ideas freely. What does 'collegial' mean here?",
+    options: ["tense", "strict", "friendly", "busy"],
+    answer: "friendly",
+  },
+  {
+    question:
+      "She was adamant about sticking to her original plan despite the objections. What does 'adamant' mean in this context?",
+    options: ["unsure", "flexible", "confused", "firm"],
+    answer: "firm",
+  },
+  {
+    question:
+      "He was chuffed to bits when he passed the exam with flying colors. What does 'chuffed' mean here?",
+    options: ["pleased", "angry", "bored", "nervous"],
+    answer: "pleased",
+  },
+  {
+    question:
+      "They had to beaver away all weekend to meet the project deadline. What does 'beaver away' mean in this sentence?",
+    options: ["rest", "play", "work hard", "delay"],
+    answer: "work hard",
+  },
+  {
+    question:
+      "He tried to brown-nose the boss to get a promotion, but it didn’t work. What does 'brown-nose' mean here?",
+    options: ["criticize", "ignore", "challenge", "flatter"],
+    answer: "flatter",
+  },
+  {
+    question:
+      "The new restaurant in town has a swanky atmosphere with fancy decor. What does 'swanky' mean in this context?",
+    options: ["dull", "stylish", "simple", "messy"],
+    answer: "stylish",
+  },
+  {
+    question:
+      "They decided to drag out the meeting longer than necessary to avoid a decision. What does 'drag something out' mean here?",
+    options: ["shorten", "cancel", "start", "prolong"],
+    answer: "prolong",
+  },
+  {
+    question:
+      "The team had to slog through piles of data to find the error. What does 'slog' mean in this sentence?",
+    options: ["relax", "enjoy", "struggle", "rush"],
+    answer: "struggle",
+  },
+  {
+    question:
+      "The new app is an offshoot of their main software platform. What does 'offshoot' mean in this context?",
+    options: ["branch", "failure", "copy", "end"],
+    answer: "branch",
+  },
+  {
+    question:
+      "She’s always so confident and never doubts herself, truly ___ her element. Which preposition fits best?",
+    options: ["in", "on", "at", "for"],
+    answer: "in",
+  },
+  {
+    question:
+      "The team was ___ edge waiting for the final results. Which preposition fits best?",
+    options: ["to", "at", "on", "for"],
+    answer: "on",
+  },
+  {
+    question:
+      "He showed up ___ the eleventh hour, just before the deadline. Which preposition fits best?",
+    options: ["in", "on", "for", "at"],
+    answer: "at",
+  },
+  {
+    question:
+      "They’ve been saving ___ a rainy day to cover unexpected expenses. Which preposition fits best?",
+    options: ["to", "at", "for", "on"],
+    answer: "for",
+  },
+  {
+    question:
+      "Her speech went ___ the point and inspired everyone in the room. Which preposition fits best?",
+    options: ["at", "for", "in", "to"],
+    answer: "to",
+  },
+  {
+    question:
+      "He’s always ___ the lookout for new opportunities. Which preposition fits best?",
+    options: ["to", "on", "at", "for"],
+    answer: "on",
+  },
+  {
+    question:
+      "The project is ___ full swing now, with everyone working hard. Which preposition fits best?",
+    options: ["in", "at", "for", "to"],
+    answer: "in",
+  },
+  {
+    question:
+      "She arrived ___ the nick of time, just before the meeting started. Which preposition fits best?",
+    options: ["for", "on", "at", "in"],
+    answer: "at",
+  },
+  {
+    question:
+      "They’re holding out ___ a better deal before signing the contract. Which preposition fits best?",
+    options: ["at", "for", "to", "on"],
+    answer: "for",
+  },
+  {
+    question:
+      "His comments were right ___ the mark and addressed the issue perfectly. Which preposition fits best?",
+    options: ["in", "to", "at", "for"],
+    answer: "to",
+  },
+  {
+    question:
+      "The team is ___ a roll after winning three games in a row. Which preposition fits best?",
+    options: ["for", "at", "on", "in"],
+    answer: "on",
+  },
+  {
+    question:
+      "She’s ___ her best when working under pressure. Which preposition fits best?",
+    options: ["to", "at", "for", "in"],
+    answer: "at",
+  },
+  {
+    question:
+      "He’s been ___ hot water ever since he missed the deadline. Which preposition fits best?",
+    options: ["in", "on", "to", "for"],
+    answer: "in",
+  },
+  {
+    question:
+      "They donated the funds ___ a good cause last weekend. Which preposition fits best?",
+    options: ["at", "on", "for", "to"],
+    answer: "to",
+  },
+  {
+    question:
+      "She’s been studying ___ weeks to prepare for the exam. Which preposition fits best?",
+    options: ["to", "for", "at", "on"],
+    answer: "for",
   },
 ];
