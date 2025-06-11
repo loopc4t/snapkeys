@@ -24,6 +24,30 @@ document.addEventListener("DOMContentLoaded", function () {
   nextButton.style.display = "none"; // Hide Next button initially
   seeResultButton.style.display = "none"; // Hide See Result button initially
 
+  // Show welcome message on load
+  function showWelcomeMessage() {
+    const welcomeMessage = `
+      <div class="instructions-box">
+        <h2><i class="fas fa-info-circle"></i> Welcome to SnapKeys. Learning what really matters.
+
+</h2>
+        <p>This app can help you improve your English grammar and build your vocabulary with useful collocations. However, it shouldn't be the main focus of your studies.</p>
+        
+        <p>The most important thing to understand when learning a second language is that language is a way to access information such as news, entertainment, and general knowledge. Your main goal should be to get that information, not just study grammar or vocabulary on their own.</p>
+        
+        <p>You should feel encouraged to absorb the language through modern English from TV shows, movies, podcasts, YouTube, books, or even by chatting with a chatbot. The key is to stay engaged with content that truly interests you.</p>
+        
+        <p>That's why I recommend using this app once or maybe twice a day as a way to reinforce what you're already learning through real-life content.</p>
+        
+        <div class="instruction-highlight">
+          <i class="fas fa-rocket"></i>
+          Ready to test your English skills? Click "Start Quiz" when you're ready!
+        </div>
+      </div>
+    `;
+    quizForm.innerHTML = welcomeMessage;
+  }
+
   // Function to generate stars dynamically
   function createStarfield() {
     const starfield = document.querySelector(".starfield");
@@ -50,8 +74,9 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  // Initialize starfield on page load
+  // Initialize starfield and welcome message on page load
   createStarfield();
+  showWelcomeMessage();
 
   // Re-generate starfield on window resize for responsiveness
   window.addEventListener("resize", createStarfield);
@@ -308,6 +333,7 @@ document.addEventListener("DOMContentLoaded", function () {
     nextButton.style.display = "none";
     seeResultButton.style.display = "none";
     createStarfield();
+    showWelcomeMessage(); // Show welcome message again after reset
   }
 
   startButton.addEventListener("click", function () {
